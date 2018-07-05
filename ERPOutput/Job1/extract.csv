@@ -1,0 +1,5 @@
+"FileName","Type","BatchNumber","ExternalApproved","DocPosition","TotalDocs","Initiator","CustomerID","Date","Pages","Printed","WhenPrinted"
+"1111-DOC-01.pdf","CUS-DC-S2-143","Job1","No","1","4","contoso\jsmith","T498092889","09/04/2018 12:13","3","",""
+"1112-DOC-01.pdf","CUS-DC-S2-143","Job1","No","2","4","contoso\jsmith","T498092882","09/04/2018 12:13","2","",""
+"1113-DOC-01.pdf","CUS-DC-S2-143","Job1","No","3","4","contoso\jsmith","T498092883","09/04/2018 12:13","2","",""
+"1114-DOC-01.pdf","CUS-DC-S2-143","Job1","No","4","4","contoso\jsmith","T498092884","09/04/2018 12:13","2","",""
